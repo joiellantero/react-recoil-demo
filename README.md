@@ -4,8 +4,6 @@
 
 This project is a sample implementation of [Recoil](https://recoiljs.org/).
 
-Learn how to use Recoil [here](https://dev.to/joiellantero)
-
 ## Getting Started
 
 1. Clone the repository
@@ -25,3 +23,8 @@ Learn how to use Recoil [here](https://dev.to/joiellantero)
    ```shell
    npm run start
    ```
+
+## Resources
+
+* [Learn how this project was made](https://dev.to/joiellantero)
+* [Learn more about Tailwind CSS](https://tailwindcss.com/)
