@@ -1,6 +1,7 @@
 # React Recoil Sample
 
 [![License - MIT](https://img.shields.io/badge/License-MIT-blue)](https://)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f85939dd-1619-46b1-8962-ccf6768a397e/deploy-status)](https://app.netlify.com/sites/react-recoil-demo/deploys)
 
 This project is a sample implementation of [Recoil](https://recoiljs.org/).
 
