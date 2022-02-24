@@ -9,7 +9,7 @@ This project is a sample implementation of [Recoil](https://recoiljs.org/).
 1. Clone the repository
 
    ```shell
-   git clone https://github.com/joiellantero/react-recoil-sample.git
+   git clone https://github.com/joiellantero/react-recoil-demo.git
    ```
 
 2. Install the dependencies
